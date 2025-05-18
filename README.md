@@ -1,1 +1,2 @@
 # gallery
+npm init -y
